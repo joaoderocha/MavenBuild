@@ -226,6 +226,11 @@ Vai aparecer um arquivo no formato json. Substitua ele por esse arquivo de confi
 ```
 Por fim, baixe essa [extencao](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack)
 
+Instale tambem as extencoes:
+
+[Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
+
+[Gitlens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
 
 
 
